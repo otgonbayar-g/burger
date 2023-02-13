@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/burger/static/css/main.c1210820.css",
-    "main.js": "/burger/static/js/main.7870a4da.js",
+    "main.js": "/burger/static/js/main.de1088c4.js",
     "static/js/787.48b80222.chunk.js": "/burger/static/js/787.48b80222.chunk.js",
     "static/media/bk_logo_2020.svg": "/burger/static/media/bk_logo_2020.7c8d482abe4005e677e2a915d9e4b498.svg",
     "index.html": "/burger/index.html",
     "main.c1210820.css.map": "/burger/static/css/main.c1210820.css.map",
-    "main.7870a4da.js.map": "/burger/static/js/main.7870a4da.js.map",
+    "main.de1088c4.js.map": "/burger/static/js/main.de1088c4.js.map",
     "787.48b80222.chunk.js.map": "/burger/static/js/787.48b80222.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1210820.css",
-    "static/js/main.7870a4da.js"
+    "static/js/main.de1088c4.js"
   ]
 }
