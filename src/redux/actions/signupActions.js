@@ -50,11 +50,9 @@ export const signupUserError = (error) => {
 export const logout = () => {
     localStorage.removeItem('token');
     localStorage.removeItem('userId');
-    localStorage.removeItem('expireDate');
-    localStorage.removeItem('refreshToken');
     return {
         type: 'LOGOUT'
-    }
+    };
 }
 
 export const autoLogoutAfterMillisec = (ms) => {
